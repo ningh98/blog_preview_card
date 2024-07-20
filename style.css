@@ -5,7 +5,7 @@ body{
 .card{
     background-color: #FFFFFF;
     width: 384px;
-    height: 530px;
+    height: 510px;
     border: solid #111111;
     border-radius: 5%;
     box-shadow: 5px 5px #111111;
@@ -78,7 +78,7 @@ h3{
     display: inline-block;
     position: relative;
     left: 15px;
-    top: 40px;
+    top: 50px;
 }
 
 .author img{
